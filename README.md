@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/j9rUo2jsSbEAAAAC/do-not-run-python-python-computer.gif"  />
+<img align="right" height="250" src="https://media1.tenor.com/m/j9rUo2jsSbEAAAAC/do-not-run-python-python-computer.gif"  />
 
 ###
 
