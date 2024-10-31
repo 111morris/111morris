@@ -1,4 +1,4 @@
-<h2 align="right">Hello 👋! My name is Mulandi Morris and I'm a web developer 🗿</></h2>
+<h2 align="right">Hello 👋! My name is Mulandi Morris 🗿</></h2>
 
 ###
 
@@ -98,8 +98,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/111morris/111morris/output/snake.svg" alt="Snake animation" />
 
 ###
 
