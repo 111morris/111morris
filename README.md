@@ -1,5 +1,6 @@
 <h2 align="right">Hello 👋! My name is Mulandi Morris 🗿</></h2>
 
+<img align="left" height="300" src="https://media1.tenor.com/m/j9rUo2jsSbEAAAAC/do-not-run-python-python-computer.gif"  />
 ###
 
 <div align="right">
@@ -9,7 +10,6 @@
 
 ###
 
-<img align="right" height="300" src="https://media1.tenor.com/m/j9rUo2jsSbEAAAAC/do-not-run-python-python-computer.gif"  />
 
 ###
 
