@@ -1,4 +1,4 @@
-<h2 align="right">Hello 👋! My name is Mulandi Morris 🗿</></h2>
+<h2 align="right">Hello 👋! My name is Mulandi 🗿</></h2>
 
 
 ###
