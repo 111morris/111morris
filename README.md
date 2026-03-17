@@ -28,7 +28,7 @@ mulandimorris1@gmail.com
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=111morris&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br /> 
 
 <p align="center" style="background-color:#0d1117; padding: 10px; border-radius: 12px;">
-  <img alt="GitHub Snake dark" src="https://raw.githubusercontent.com/111morris/111morris/output/github-snake-dark.svg" style="max-width: 100%; border-radius: 12px;" />
+  <img alt="GitHub Snake dark" src="https://raw.githubusercontent.com/111morris/output/github-snake-dark.svg" style="max-width: 100%; border-radius: 12px;" />
 </p>
 
 ## GitHub Trophies
